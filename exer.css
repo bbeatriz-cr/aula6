@@ -1,0 +1,16 @@
+body{
+    background-color: #80a5ac;
+}
+.container {  
+    display: flex;
+    justify-content: center;
+    
+}
+.container div {
+    line-height: 2.0;
+    font-size: 30px;
+    text-align: left;
+}
+.imagem img {
+    border-radius: 10px;
+}
